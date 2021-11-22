@@ -4,6 +4,7 @@ title: DAYCON 공모전
 subtitle: AI프렌즈 시즌1 온도 추정 경진대회
 categories: Competition
 tags: [Competition, Teamproject]
+comments: true
 ---
 
 <!-- This note demonstrates some of what [Markdown][1] is capable of doing.

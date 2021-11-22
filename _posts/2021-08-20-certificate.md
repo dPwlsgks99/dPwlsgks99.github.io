@@ -4,6 +4,7 @@ title: 정보처리기사
 subtitle: 한국산업인력공단
 categories: Certificate
 tags: [Certificate]
+comments: false
 ---
 
 * 정보처리기사 개요

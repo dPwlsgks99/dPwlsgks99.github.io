@@ -183,8 +183,13 @@ code_badge:
 # paginate: 5
 
 # Disqus comments
-# disqus:
-#   shortname: "Your Disqus username"
+disqus:
+  shortname: "dPwlsgks99"
+
+# comment:
+#   provider: "disqus"
+#   disqus:
+#     shortname: "dPwlsgks99"
 
 # Gitment comments
 # gitment:
@@ -206,3 +211,4 @@ plugins:
   - jekyll-sitemap
   - jekyll-paginate
   - jekyll-spaceship
+

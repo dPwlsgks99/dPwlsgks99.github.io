@@ -4,6 +4,7 @@ title: 데이터분석준전문가(ADsP)
 subtitle: 한국데이터베이스진흥원
 categories: Certificate
 tags: [Certificate]
+comments: false
 ---
 
 * 데이터분석 준전문가 정의

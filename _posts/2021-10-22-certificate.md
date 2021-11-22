@@ -4,6 +4,7 @@ title: 빅데이터분석기사(필기)
 subtitle: 한국데이터베이스진흥원
 categories: Certificate
 tags: [Certificate]
+comments: false
 ---
 
 * 빅데이터분석기사 정의

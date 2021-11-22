@@ -4,6 +4,7 @@ title: SQL개발자(SQLD)
 subtitle: 한국데이터베이스진흥원
 categories: Certificate
 tags: [Certificate]
+comments: false
 ---
 
 * SQL 개발자 정의
