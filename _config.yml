@@ -183,13 +183,13 @@ code_badge:
 # paginate: 5
 
 # Disqus comments
-disqus:
-  shortname: "dPwlsgks99"
+# disqus:
+#   shortname: "dPwlsgks99"
 
-# comment:
-#   provider: "disqus"
-#   disqus:
-#     shortname: "dPwlsgks99"
+comment:
+  provider: "disqus"
+  disqus:
+    shortname: "dPwlsgks99"
 
 # Gitment comments
 # gitment:
