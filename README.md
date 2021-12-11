@@ -16,10 +16,12 @@
   - 자기소개서 형태의 blog 방식으로 방향을 잡음
   - blog 소개하는 post 생성
   - navbar의 MY, ARCHIEVES, CATEGORIES, HOME, TAGS 중 MY와 ARCHIEVES를 중점적으로 변경
-  - MY에 나의 github주소와 사진, 개인 정보 추가
-  - ARCHIEVES에 2018년부터 2021년까지 해온 활동들 추가
-    - 인턴, 자격증, 학회(동아리), 공모전 등
-  - 수업시간에 배운 내용 중 git & github에 관한 post 생성
+    - MY에 나의 github주소와 사진, 개인 정보 추가
+    - ARCHIEVES에 2018년부터 2021년까지 해온 활동들 추가
+      - 인턴, 자격증, 학회(동아리), 공모전 등
+    - CATEGORIES에 Certificate, Club, Competition, Intern, Introduce, Study, University로 분류함
+    - 하나의 post에 여러 개의 tag들을 함께 생성함
+  - 수업시간에 배운 내용 중 Git & Github 관련 post 생성
 
 ## 댓글 기능 ##
 - Disqus 사이트를 이용함(BLOG GAME과 수업 참고)
