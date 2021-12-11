@@ -28,4 +28,5 @@
 
 ## favicon 생성 ##
 - flaticon 사이트에서 원하는 이미지를 찾은 후 realfavicongenerator 사이트를 활용함
+- favicon 생성 블로그 참고 : https://velog.io/@eona1301/Github-Blog-%ED%8C%8C%EB%B9%84%EC%BD%98Favicon-%EC%84%B8%ED%8C%85%ED%95%98%EA%B8%B0 
 - 모든 과정은 로컬 repository에서 정상적으로 수행되는 것을 확인한 후 원격 repository에 push함
