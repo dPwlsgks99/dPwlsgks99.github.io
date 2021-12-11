@@ -12,7 +12,7 @@
 
 ## 테마 꾸미기 ##
 - 배경화면 및 모든 글씨, 색상 변경(배경화면과 통일성 유지)
-- post 내용 변경
+- post 내용 변경(총 13개의 post)
   - 자기소개서 형태의 blog 방식으로 방향을 잡음
   - blog 소개하는 post 생성
   - navbar의 MY, ARCHIEVES, CATEGORIES, HOME, TAGS 중 MY와 ARCHIEVES를 중점적으로 변경
