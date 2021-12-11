@@ -26,7 +26,7 @@
 ## 댓글 기능 ##
 - Disqus 사이트를 이용함(BLOG GAME과 수업 참고)
 - blog 소개하는 post, 공모전 post, 학회(동아리) post에 댓글 기능 추가
-  - 현재 blog 소개하는 post에 댓글 3개 추가되어 있음
+  - 현재 blog 소개하는 post에 댓글 1개 샘플로 
 
 ## favicon 생성 ##
 - flaticon 사이트에서 원하는 이미지를 찾은 후 realfavicongenerator 사이트를 활용함
