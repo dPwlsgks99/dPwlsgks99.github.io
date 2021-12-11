@@ -28,5 +28,4 @@
 
 ## favicon 생성 ##
 - flaticon 사이트에서 원하는 이미지를 찾은 후 realfavicongenerator 사이트를 활용함
-
-모든 과정은 로컬 repository에서 정상적으로 수행되는 것을 확인한 후 원격 repository에 push한 내용임
+- 모든 과정은 로컬 repository에서 정상적으로 수행되는 것을 확인한 후 원격 repository에 push함
